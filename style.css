@@ -27,13 +27,13 @@ body {
 h2, h4 {
     margin: 5px;
 }
-h4 { /* coloquei */
+h4 {
     font-weight: 300; 
 }
 h1 {
     font-size: 80px;
     margin: 0;
-    font-weight: 300; /* coloquei */
+    font-weight: 300;
 }
 .iphone-container {
     width: 350px;
@@ -70,13 +70,13 @@ h1 {
     margin: 40px 0 20px;
 }
 .iphone-container .week-weather {
-    color: var(--light-grey); /* coloquei */
-    margin-top: 60px; /* mudei de 40px para 60px */
+    color: var(--light-grey);
+    margin-top: 60px;
     padding: 0 20px;
     text-align: left;
     display: grid;
     grid-template-columns: 3fr 1fr;
-    grid-gap: 1rem; /* coloquei - espaço entre os grids*/
+    grid-gap: 1rem;
 }
 
 
